@@ -1,0 +1,8 @@
+{
+  "last_mode": "Battery",
+  "boost_overrides": {
+    "Battery": null,
+    "Balanced": null,
+    "Performance": null
+  }
+}
